@@ -22,6 +22,6 @@ FÓRMULAS UTILIZADAS:
 
  IMAGENS DA INTERFACE:
 
- ![interface1](Faculdade/blob/main/Interface1.png)
+ ![interface1](Interface1.png)
  
 
