@@ -1,7 +1,5 @@
 # Calculador de Frenagem e Atrito em Java
 
-Trabalho de Física: 
-
 O programa trás como contexto, um caso onde um carro está indo em rota de colisão a um muro, e o motorista deve decidir se deve frear ou desviar.<br>
  Apartir desse cenário, o programa calcula qual decisão impede a colisão ou se ela não pode ser evitada, e caso possa ser, qual a melhor escolha. O cálculo é feito utilizando seis valores que serão fornecidos pelo usuário, sendo eles: a distância entre o carro e o muro em metros, a massa do carro em quilos, a velocidade inicial do veículo em metros por segundo, os coeficientes de atrito estático e cinético, e a largura do desvio disponível em metros.<br>
 Após a realização dos cálculos, serão mostrados: O atrito máximo que disponível para ser utilizado, o atrito mínimo necessário para que o carro consiga frear, a velocidade de impacto caso a colisão aconteça, a força necessária para fazer a curva e a decisão final.<br>
