@@ -1,4 +1,4 @@
-# Calculador de Frenagem e Atrito
+# Calculador de Frenagem e Atrito em Java
 
 Trabalho de Física: 
 
