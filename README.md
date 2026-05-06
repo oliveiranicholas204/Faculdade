@@ -1,8 +1,6 @@
-# Faculdade
-Aluno: Nicholas de Camargo Oliveira
-2ºano Ciência da Computação
+# Calculador de Frenagem e Atrito
 
-Trabalho de Física: Calculador de Frenagem e Atrito
+Trabalho de Física: 
 
 O programa trás como contexto, um caso onde um carro está indo em rota de colisão a um muro, e o motorista deve decidir se deve frear ou desviar.<br>
  Apartir desse cenário, o programa calcula qual decisão impede a colisão ou se ela não pode ser evitada, e caso possa ser, qual a melhor escolha. O cálculo é feito utilizando seis valores que serão fornecidos pelo usuário, sendo eles: a distância entre o carro e o muro em metros, a massa do carro em quilos, a velocidade inicial do veículo em metros por segundo, os coeficientes de atrito estático e cinético, e a largura do desvio disponível em metros.<br>
@@ -27,3 +25,4 @@ FÓRMULAS UTILIZADAS:
    ![interface3](Interface3.png)
  
 
+Por: Nicholas de Camargo Oliveira
