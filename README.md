@@ -12,12 +12,12 @@ A adição do input largura do desvio, assim como certas modificações em rela�
 
 FÓRMULAS UTILIZADAS:
 
- Atrito máximo = coeficiente de atrito estático * massa * gravidade(9.81);
- Atrito mínimo para frear = (massa * velocidade²) / (distância * 2);
- Raio do desvio = (distância² + (largura do desvio)²) / 2* (largura do desvio);
- Força necessária para desviar = (massa * velocidade²) / raio do desvio;
- Aceleração = coeficiente de atrito cinético * gravidade(9.81);
- Velocidade de colisão = velocidade² - ( 2 * aceleração * distância);
- Velocidade de colisão em km/h = velocidade de colisão * 3.6;
+ Atrito máximo = coeficiente de atrito estático * massa * gravidade(9.81);<br>
+ Atrito mínimo para frear = (massa * velocidade²) / (distância * 2);<br>
+ Raio do desvio = (distância² + (largura do desvio)²) / 2* (largura do desvio);<br>
+ Força necessária para desviar = (massa * velocidade²) / raio do desvio;<br>
+ Aceleração = coeficiente de atrito cinético * gravidade(9.81);<br>
+ Velocidade de colisão = velocidade² - ( 2 * aceleração * distância);<br>
+ Velocidade de colisão em km/h = velocidade de colisão * 3.6;<br>
  
 
