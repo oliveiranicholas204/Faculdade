@@ -19,5 +19,9 @@ FÓRMULAS UTILIZADAS:
  Aceleração = coeficiente de atrito cinético * gravidade(9.81);<br>
  Velocidade de colisão = velocidade² - ( 2 * aceleração * distância);<br>
  Velocidade de colisão em km/h = velocidade de colisão * 3.6;<br>
+
+ IMAGENS DA INTERFACE:
+
+ ![interface1](caminho/do/seu/arquivo/interface.png)
  
 
