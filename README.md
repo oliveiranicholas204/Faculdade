@@ -9,3 +9,15 @@ O programa trás como contexto, um caso onde um carro está indo em rota de coli
 Após a realização dos cálculos, serão mostrados: O atrito máximo que disponível para ser utilizado, o atrito mínimo necessário para que o carro consiga frear, a velocidade de impacto caso a colisão aconteça, a força necessária para fazer a curva e a decisão final.<br>
 A decisão se baseia no seguinte: se a força de atrito necessária para parar for suficiente e a força para desviar não, então frear é a melhor opção,  e vice - versa. Porém se as duas forem possíveis, mesmo que seja necessário menos força para desviar do que para frear, frear ainda será a melhor opção devido ao ser levado em conta que pode haver algum obstáculo na hora do desvio. Caso nenhuma seja possível a colisão é inevitável.<br>
 A adição do input largura do desvio, assim como certas modificações em relação a questão original do livro foram necessárias, pois foi descoberto que seu cálculo original sempre beneficiava a opção frear e se apenas pequenas mudanças fossem feitas, a opção desviar passava a ser beneficiada, sendo necessária a adição deste input, algumas mudanças no cálculo original e a adição da opção das duas sendo possiveis, para tentar balancear os resultados da decisão.
+
+FÓRMULAS UTILIZADAS:
+
+ Atrito máximo = coeficiente de atrito estático * massa * gravidade(9.81);
+ Atrito mínimo para frear = (massa * velocidade²) / (distância * 2);
+ Raio do desvio = (distância² + (largura do desvio)²) / 2* (largura do desvio);
+ Força necessária para desviar = (massa * velocidade²) / raio do desvio;
+ Aceleração = coeficiente de atrito cinético * gravidade(9.81);
+ Velocidade de colisão = velocidade² - ( 2 * aceleração * distância);
+ Velocidade de colisão em km/h = velocidade de colisão * 3.6;
+ 
+
